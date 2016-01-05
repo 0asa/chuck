@@ -1,4 +1,4 @@
-## A polyglot Chuck Norris random facts fetcher
+## A polyglot Chuck Norris random fact fetcher
 
 ### en
 
